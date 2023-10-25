@@ -6,12 +6,12 @@ This project aims to explore and understand the behavior of squirrels in Central
 
 # Exploratory Data Analysis 
 
-Distribution of Squirrel Sightings by Hectare.
-Squirrel Feeding Activity Over Time.
-Percentage of Squirrels that Hand Feed.
-Squirrel Activities by Primary Fur Color.
-Squirrel Activities by Shift.
-Proportion of Running and Chasing Activities.
+* Distribution of Squirrel Sightings by Hectare.
+* Squirrel Feeding Activity Over Time.
+* Percentage of Squirrels that Hand Feed.
+* Squirrel Activities by Primary Fur Color.
+* Squirrel Activities by Shift.
+* Proportion of Running and Chasing Activities.
 
 
 # Methodology
@@ -20,12 +20,9 @@ The analysis was conducted using Python and popular data analysis libraries, inc
 
 # Key Findings
 
-Common Squirrel Sightings: 
-The analysis reveals that the Eastern Gray Squirrel is the most commonly sighted species in Central Park.
-Feeding Time Patterns
-Squirrels in Central Park are most active during the early morning and late afternoon.
-Hand Feeding
-Approximately 25.5% of squirrels engage in hand feeding. These squirrels are more likely to be found in the southern part of the park.
+* Common Squirrel Sightings: The analysis reveals that the Eastern Gray Squirrel is the most commonly sighted species in Central Park.
+* Feeding Time Patterns: Squirrels in Central Park are most active during the early morning and late afternoon.
+* Hand Feeding: Approximately 25.5% of squirrels engage in hand feeding. These squirrels are more likely to be found in the southern part of the park.
 
 # Conclusion
 
